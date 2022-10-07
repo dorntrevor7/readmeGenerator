@@ -1,5 +1,23 @@
 {
   "dependencies": {
-    "inquirer": "^9.1.2"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "name": "readmegenerator",
+  "description": "This is a Readme generator. Check it out!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorntrevor7/readmeGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorntrevor7/readmeGenerator/issues"
+  },
+  "homepage": "https://github.com/dorntrevor7/readmeGenerator#readme"
 }
